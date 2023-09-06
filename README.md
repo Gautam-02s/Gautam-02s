@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- 🌱 I’m currently learning **WevDev & Android dev.**
+- 🌱 I’m currently learning **Devops and Cloud Engineering.**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Cloud Computing & Devops**
 
-- 💬 Ask me about **C++,WebDev,**
+- 💬 Ask me about **Linux, Bash, Cloud Computing,C++, Java,WebDev,**
 
 - 📫 How to reach me **gautam0220sharma@gmail.com**
 
