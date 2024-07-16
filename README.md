@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Devops and Cloud Engineering.**
+- 🌱 I’m currently learning **Data Science and Cloud Computing.**
 
-- 🤝 I’m looking for help with **Cloud Computing & Devops**
+- 🤝 I’m looking for help with **Data Science**
 
-- 💬 Ask me about **Linux, Bash, Cloud Computing,C++, Java,WebDev,**
+- 💬 Ask me about **Data Analytics,Data Science,WebDev,**
 
 - 📫 How to reach me **gautam0220sharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gautam_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautam_02_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautam sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam sharma" height="30" width="40" /></a>
+<a href="https://x.com/gautam_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautam_02_" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gautam02sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/gautam_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautam_02_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gautam_02s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam_02s" height="30" width="40" /></a>
 </p>
